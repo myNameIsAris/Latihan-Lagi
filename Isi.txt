@@ -1,2 +1,3 @@
 Tambah File Baru
 Tugas 1 Dua
+int adalah salah satu tipe data
